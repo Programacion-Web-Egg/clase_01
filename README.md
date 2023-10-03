@@ -68,7 +68,7 @@ Se estructura de la siguiente manera:
 Elementos HTML
 El lenguaje HTML se escribe mediante elementos. Los elementos tienen una estructura determinada, como se muestra en esta imagen. 
 
-![Html](img/image.png)
+![Html](./pwdc/mi_primera_web/img/image.png)
 
 * Todo lo que se encuentra entre < > es una etiqueta
 
@@ -76,7 +76,7 @@ El lenguaje HTML se escribe mediante elementos. Los elementos tienen una estruct
 
 ## Estilos en CSS
 En el código CSS se aplican reglas de estilo que afectarán al HTML como se muestra en la siguiente imagen
-![Css](image2.png)
+![Css](./pwdc/mi_primera_web/img/image2.png)
 * Siempre debemos indicar el elemento al cuál estaremos afectando con el estilo CSS, en este caso el h1 (que es un elemento de título en html)
 
 * Luego aplicaremos las propiedades que deseemos, junto con sus valores correspondientes. En el ejemplo le estamos aplicando un color negro al título h1.
@@ -86,7 +86,7 @@ El elemento más común y utilizado en HTML es <div></div>.  Este elemento repre
 Ahora sí, ¡Vamos a dar el primer paso codeando, qué emoción! 
 
  ¡Comencemos! 🚀
- ![Actividad 1](img/image3.png)
+ ![Actividad 1](./pwdc/mi_primera_web/img/image3.png)
 
 ## Construyendo mi primer HTML
  Ahora bien, el primer paso y esqueleto de toda página web es crear un documento HTML. ¡Manos a la obra!
@@ -103,7 +103,7 @@ Aquí veremos cómo hacer la estructura básica:
 
 https://youtu.be/89KsIUa2HCI
 
-![Actividad 2](img/image3.png)
+![Actividad 2](./pwdc/mi_primera_web/img/image3.png)
 
  Linkear el CSS
 El objetivo de esta actividad es:
@@ -117,7 +117,7 @@ El objetivo de esta actividad es:
 Aquí veremos cómo asociar el archivo CSS a nuestro HTML.
 https://youtu.be/GwV2YyrOODQ
 
-![Actividad 3](img/image3.png)
+![Actividad 3](./pwdc/mi_primera_web/img/image3.png)
 ## Elementos HTML y estilos CSS
 El objetivo de esta actividad es practicar, mediante la creación de diferentes elementos HTML con sus estilos CSS. Para ello vamos a seguir los siguientes pasos:
 
@@ -145,7 +145,7 @@ Aquí veremos cómo crear diferentes elementos HTML y aplicar estilos CSS:
 
 Elementos HTML y CSS  |Programación Web Desde Cero | Egg
 
-![Resumen](img/image4.png)
+![Resumen](./pwdc/mi_primera_web/img/image4.png)
 Hay ciertos puntos a tener en cuenta que esperamos que puedan aprender para las próximas clases, ya que iremos profundizando sobre los mismos. 
 
 HTML tiene una estructura básica que debemos respetar para la creación de cualquier página web.  <!DOCTYPE html>, <html>, <head>, <body>.
